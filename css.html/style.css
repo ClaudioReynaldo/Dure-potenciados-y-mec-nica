@@ -1,0 +1,77 @@
+/*@import url("https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap");*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+.contenedor_header {
+  background: green;
+}
+.contenedor_main {
+  background: red;
+}
+.contenedor_footer {
+  background: yellow;
+}
+
+.logo {
+  height: 200px;
+}
+.lista_desordenada ul {
+  background: white;
+  width: 100%;
+  height: 150px;
+
+  /*margin: 5px;
+  padding: 4px;
+  width: 300px; */
+}
+.lista_desordenada li {
+  margin: 5px;
+  text-align: center;
+  /*vertical-align: center;*/
+  /*text-align: justify;*/
+}
+.lista_desordenada a {
+  text-decoration: none;
+  color: black;
+}
+
+.contenedorFormulario {
+  text-align: center;
+}
+
+.contenedor_main h1 {
+  text-align: center;
+  background: white;
+  padding: 15;
+}
+
+/*:root {
+  background: rgb(49, 80, 4);
+}* /
+/*.contenedor_header {
+  background: aqua;
+}*/
+
+/*.contenedor_header h1 {
+  color: var(--colorazul);
+  font-size: var(--tamanoiletra);
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}*/
+
+/*.contenedor_header {
+}*/
+
+/*.logo {
+  padding: 20px;
+  margin: 30px;
+  background: green;
+}
+.contenedor_footer {
+  background: green;
+}*/
